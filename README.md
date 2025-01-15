@@ -1,3 +1,9 @@
+---
+noteId: "fc66e400d38411ef96f4e14f3a5045b1"
+tags: []
+
+---
+
 # Exploration en Deep Learning - Concepts Fondamentaux et Études de Cas
 
 ## Description Générale
